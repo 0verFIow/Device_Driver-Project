@@ -1,0 +1,6 @@
+dotmatrix.c:523:6:dotmatrix_idle	32	static
+dotmatrix.c:582:6:dotmatrix_up	32	static
+dotmatrix.c:649:6:dotmatrix_down	32	static
+dotmatrix.c:717:6:dotmatrix_main	8	static
+dotmatrix.c:731:6:init_dotmatrix	48	static
+dotmatrix.c:779:6:button_check	8	static

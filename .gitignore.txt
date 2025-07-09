@@ -1,0 +1,25 @@
+# STM32CubeIDE 빌드/설정 관련
+Debug/
+Release/
+*.ioc
+.ipch/
+*.launch
+*.log
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.list
+*.dep
+*.svd
+*.exe
+
+# 기타 IDE 환경파일
+.settings/
+.metadata/
+*.swp
+*.swo
+*.bak
+*.tmp

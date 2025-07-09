@@ -1,0 +1,7 @@
+flash.c:67:6:flash_main	16	static
+flash.c:95:6:set_alarm_time	40	static
+flash.c:123:6:flash_set_time	8	static
+flash.c:150:6:update_set_time	4	static
+flash.c:163:19:flash_write	32	static
+flash.c:196:19:flash_read	32	static
+flash.c:212:19:flash_erase	48	static
