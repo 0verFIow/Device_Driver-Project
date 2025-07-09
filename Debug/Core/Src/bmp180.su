@@ -1,6 +1,0 @@
-bmp180.c:24:6:i2c_bmp_main	40	static
-bmp180.c:45:10:read_uncompensated_temperature_value	32	static
-bmp180.c:77:10:read_uncompensated_pressure_value	40	static
-bmp180.c:124:9:bmp180_calculate_temperature	40	static
-bmp180.c:136:9:bmp180_calculate_pressure	64	static
-bmp180.c:174:6:bmp180_read_calibration_data	48	static

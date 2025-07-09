@@ -1,5 +1,0 @@
-uart.c:30:6:HAL_UART_RxCpltCallback	24	static
-uart.c:54:6:show_command	40	static
-uart.c:69:6:pc_command_processing	16	static
-uart.c:106:5:check_int	24	static
-uart.c:119:6:set_rtc	72	static

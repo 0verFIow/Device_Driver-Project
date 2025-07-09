@@ -1,3 +1,0 @@
-keypad.c:9:6:keypadInit	16	static
-keypad.c:17:9:getKeypadState	48	static
-keypad.c:61:9:keypadScan	16	static

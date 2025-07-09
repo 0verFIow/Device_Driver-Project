@@ -1,6 +1,0 @@
-i2c.c:22:6:i2c_lcd_main	16	static
-i2c.c:49:6:lcd_command	32	static
-i2c.c:82:6:lcd_data	32	static
-i2c.c:115:6:i2c_lcd_init	8	static
-i2c.c:124:6:lcd_string	16	static
-i2c.c:127:6:move_cursor	16	static
